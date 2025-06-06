@@ -31,9 +31,5 @@ on:
          -name: start application
          run: npm start
 
-      
-
-
-         
-         -
-         ma,e:c
+     
+     
